@@ -1,0 +1,466 @@
+2026-07-04 09:24:03 +08:00: Error: Cannot find module '/data/apps/stjh/app.js'
+2026-07-04 09:24:03 +08:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:981:27)
+2026-07-04 09:24:03 +08:00:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23)
+2026-07-04 09:24:03 +08:00:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2026-07-04 09:24:03 +08:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2026-07-04 09:24:03 +08:00:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+2026-07-04 09:24:03 +08:00:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+2026-07-04 09:24:03 +08:00:     at node:internal/main/run_main_module:28:49 {
+2026-07-04 09:24:03 +08:00:   code: 'MODULE_NOT_FOUND',
+2026-07-04 09:24:03 +08:00:   requireStack: []
+2026-07-04 09:24:03 +08:00: }
+2026-07-04 09:24:03 +08:00: Error: Cannot find module '/data/apps/stjh/app.js'
+2026-07-04 09:24:03 +08:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:981:27)
+2026-07-04 09:24:03 +08:00:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23)
+2026-07-04 09:24:03 +08:00:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2026-07-04 09:24:03 +08:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2026-07-04 09:24:03 +08:00:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+2026-07-04 09:24:03 +08:00:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+2026-07-04 09:24:03 +08:00:     at node:internal/main/run_main_module:28:49 {
+2026-07-04 09:24:03 +08:00:   code: 'MODULE_NOT_FOUND',
+2026-07-04 09:24:03 +08:00:   requireStack: []
+2026-07-04 09:24:03 +08:00: }
+2026-07-04 09:24:03 +08:00: Error: Cannot find module '/data/apps/stjh/app.js'
+2026-07-04 09:24:03 +08:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:981:27)
+2026-07-04 09:24:03 +08:00:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23)
+2026-07-04 09:24:03 +08:00:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2026-07-04 09:24:03 +08:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2026-07-04 09:24:03 +08:00:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+2026-07-04 09:24:03 +08:00:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+2026-07-04 09:24:03 +08:00:     at node:internal/main/run_main_module:28:49 {
+2026-07-04 09:24:03 +08:00:   code: 'MODULE_NOT_FOUND',
+2026-07-04 09:24:03 +08:00:   requireStack: []
+2026-07-04 09:24:03 +08:00: }
+2026-07-04 09:24:03 +08:00: Error: Cannot find module '/data/apps/stjh/app.js'
+2026-07-04 09:24:03 +08:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:981:27)
+2026-07-04 09:24:03 +08:00:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23)
+2026-07-04 09:24:03 +08:00:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2026-07-04 09:24:03 +08:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2026-07-04 09:24:03 +08:00:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+2026-07-04 09:24:03 +08:00:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+2026-07-04 09:24:03 +08:00:     at node:internal/main/run_main_module:28:49 {
+2026-07-04 09:24:03 +08:00:   code: 'MODULE_NOT_FOUND',
+2026-07-04 09:24:03 +08:00:   requireStack: []
+2026-07-04 09:24:03 +08:00: }
+2026-07-04 09:24:03 +08:00: Error: Cannot find module '/data/apps/stjh/app.js'
+2026-07-04 09:24:03 +08:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:981:27)
+2026-07-04 09:24:03 +08:00:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23)
+2026-07-04 09:24:03 +08:00:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2026-07-04 09:24:03 +08:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2026-07-04 09:24:03 +08:00:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+2026-07-04 09:24:03 +08:00:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+2026-07-04 09:24:03 +08:00:     at node:internal/main/run_main_module:28:49 {
+2026-07-04 09:24:03 +08:00:   code: 'MODULE_NOT_FOUND',
+2026-07-04 09:24:03 +08:00:   requireStack: []
+2026-07-04 09:24:03 +08:00: }
+2026-07-04 09:24:03 +08:00: Error: Cannot find module '/data/apps/stjh/app.js'
+2026-07-04 09:24:03 +08:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:981:27)
+2026-07-04 09:24:03 +08:00:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23)
+2026-07-04 09:24:03 +08:00:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2026-07-04 09:24:03 +08:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2026-07-04 09:24:03 +08:00:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+2026-07-04 09:24:03 +08:00:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+2026-07-04 09:24:03 +08:00:     at node:internal/main/run_main_module:28:49 {
+2026-07-04 09:24:03 +08:00:   code: 'MODULE_NOT_FOUND',
+2026-07-04 09:24:03 +08:00:   requireStack: []
+2026-07-04 09:24:03 +08:00: }
+2026-07-04 09:24:03 +08:00: Error: Cannot find module '/data/apps/stjh/app.js'
+2026-07-04 09:24:03 +08:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:981:27)
+2026-07-04 09:24:03 +08:00:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23)
+2026-07-04 09:24:03 +08:00:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2026-07-04 09:24:03 +08:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2026-07-04 09:24:03 +08:00:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+2026-07-04 09:24:03 +08:00:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+2026-07-04 09:24:03 +08:00:     at node:internal/main/run_main_module:28:49 {
+2026-07-04 09:24:03 +08:00:   code: 'MODULE_NOT_FOUND',
+2026-07-04 09:24:03 +08:00:   requireStack: []
+2026-07-04 09:24:03 +08:00: }
+2026-07-04 09:24:03 +08:00: Error: Cannot find module '/data/apps/stjh/app.js'
+2026-07-04 09:24:03 +08:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:981:27)
+2026-07-04 09:24:03 +08:00:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23)
+2026-07-04 09:24:03 +08:00:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2026-07-04 09:24:03 +08:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2026-07-04 09:24:03 +08:00:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+2026-07-04 09:24:03 +08:00:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+2026-07-04 09:24:03 +08:00:     at node:internal/main/run_main_module:28:49 {
+2026-07-04 09:24:03 +08:00:   code: 'MODULE_NOT_FOUND',
+2026-07-04 09:24:03 +08:00:   requireStack: []
+2026-07-04 09:24:03 +08:00: }
+2026-07-04 09:24:03 +08:00: Error: Cannot find module '/data/apps/stjh/app.js'
+2026-07-04 09:24:03 +08:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:981:27)
+2026-07-04 09:24:03 +08:00:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23)
+2026-07-04 09:24:03 +08:00:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2026-07-04 09:24:03 +08:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2026-07-04 09:24:03 +08:00:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+2026-07-04 09:24:03 +08:00:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+2026-07-04 09:24:03 +08:00:     at node:internal/main/run_main_module:28:49 {
+2026-07-04 09:24:03 +08:00:   code: 'MODULE_NOT_FOUND',
+2026-07-04 09:24:03 +08:00:   requireStack: []
+2026-07-04 09:24:03 +08:00: }
+2026-07-04 09:24:03 +08:00: Error: Cannot find module '/data/apps/stjh/app.js'
+2026-07-04 09:24:03 +08:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:981:27)
+2026-07-04 09:24:03 +08:00:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23)
+2026-07-04 09:24:03 +08:00:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2026-07-04 09:24:03 +08:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2026-07-04 09:24:03 +08:00:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+2026-07-04 09:24:03 +08:00:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+2026-07-04 09:24:03 +08:00:     at node:internal/main/run_main_module:28:49 {
+2026-07-04 09:24:03 +08:00:   code: 'MODULE_NOT_FOUND',
+2026-07-04 09:24:03 +08:00:   requireStack: []
+2026-07-04 09:24:03 +08:00: }
+2026-07-04 09:24:03 +08:00: Error: Cannot find module '/data/apps/stjh/app.js'
+2026-07-04 09:24:03 +08:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:981:27)
+2026-07-04 09:24:03 +08:00:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23)
+2026-07-04 09:24:03 +08:00:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2026-07-04 09:24:03 +08:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2026-07-04 09:24:03 +08:00:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+2026-07-04 09:24:03 +08:00:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+2026-07-04 09:24:03 +08:00:     at node:internal/main/run_main_module:28:49 {
+2026-07-04 09:24:03 +08:00:   code: 'MODULE_NOT_FOUND',
+2026-07-04 09:24:03 +08:00:   requireStack: []
+2026-07-04 09:24:03 +08:00: }
+2026-07-04 09:24:03 +08:00: Error: Cannot find module '/data/apps/stjh/app.js'
+2026-07-04 09:24:03 +08:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:981:27)
+2026-07-04 09:24:03 +08:00:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23)
+2026-07-04 09:24:03 +08:00:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2026-07-04 09:24:03 +08:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2026-07-04 09:24:03 +08:00:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+2026-07-04 09:24:03 +08:00:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+2026-07-04 09:24:03 +08:00:     at node:internal/main/run_main_module:28:49 {
+2026-07-04 09:24:03 +08:00:   code: 'MODULE_NOT_FOUND',
+2026-07-04 09:24:03 +08:00:   requireStack: []
+2026-07-04 09:24:03 +08:00: }
+2026-07-04 09:24:03 +08:00: Error: Cannot find module '/data/apps/stjh/app.js'
+2026-07-04 09:24:03 +08:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:981:27)
+2026-07-04 09:24:03 +08:00:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23)
+2026-07-04 09:24:03 +08:00:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2026-07-04 09:24:03 +08:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2026-07-04 09:24:03 +08:00:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+2026-07-04 09:24:03 +08:00:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+2026-07-04 09:24:03 +08:00:     at node:internal/main/run_main_module:28:49 {
+2026-07-04 09:24:03 +08:00:   code: 'MODULE_NOT_FOUND',
+2026-07-04 09:24:03 +08:00:   requireStack: []
+2026-07-04 09:24:03 +08:00: }
+2026-07-04 09:24:03 +08:00: Error: Cannot find module '/data/apps/stjh/app.js'
+2026-07-04 09:24:03 +08:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:981:27)
+2026-07-04 09:24:03 +08:00:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23)
+2026-07-04 09:24:03 +08:00:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2026-07-04 09:24:03 +08:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2026-07-04 09:24:03 +08:00:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+2026-07-04 09:24:03 +08:00:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+2026-07-04 09:24:03 +08:00:     at node:internal/main/run_main_module:28:49 {
+2026-07-04 09:24:03 +08:00:   code: 'MODULE_NOT_FOUND',
+2026-07-04 09:24:03 +08:00:   requireStack: []
+2026-07-04 09:24:03 +08:00: }
+2026-07-04 09:24:03 +08:00: Error: Cannot find module '/data/apps/stjh/app.js'
+2026-07-04 09:24:03 +08:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:981:27)
+2026-07-04 09:24:03 +08:00:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23)
+2026-07-04 09:24:03 +08:00:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2026-07-04 09:24:03 +08:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2026-07-04 09:24:03 +08:00:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+2026-07-04 09:24:03 +08:00:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+2026-07-04 09:24:03 +08:00:     at node:internal/main/run_main_module:28:49 {
+2026-07-04 09:24:03 +08:00:   code: 'MODULE_NOT_FOUND',
+2026-07-04 09:24:03 +08:00:   requireStack: []
+2026-07-04 09:24:03 +08:00: }
+2026-07-04 09:24:03 +08:00: Error: Cannot find module '/data/apps/stjh/app.js'
+2026-07-04 09:24:03 +08:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:981:27)
+2026-07-04 09:24:03 +08:00:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23)
+2026-07-04 09:24:03 +08:00:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2026-07-04 09:24:03 +08:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2026-07-04 09:24:03 +08:00:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+2026-07-04 09:24:03 +08:00:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+2026-07-04 09:24:03 +08:00:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+2026-07-04 09:24:03 +08:00:     at node:internal/main/run_main_module:28:49 {
+2026-07-04 09:24:03 +08:00:   code: 'MODULE_NOT_FOUND',
+2026-07-04 09:24:03 +08:00:   requireStack: []
+2026-07-04 09:24:03 +08:00: }
+2026-08-02 21:45:11 +08:00: Error: Undefined binding(s) detected when compiling SELECT. Undefined column(s): [self_openid] query: select * from `userinfo` where `self_openid` = ?
+2026-08-02 21:45:11 +08:00:     at QueryCompiler_MySQL.toSQL (/data/apps/stjh/node_modules/knex/lib/query/querycompiler.js:112:13)
+2026-08-02 21:45:11 +08:00:     at QueryBuilder_MySQL.toSQL (/data/apps/stjh/node_modules/knex/lib/query/querybuilder.js:84:44)
+2026-08-02 21:45:11 +08:00:     at ensureConnectionCallback (/data/apps/stjh/node_modules/knex/lib/execution/internal/ensure-connection-callback.js:4:30)
+2026-08-02 21:45:11 +08:00:     at Runner.ensureConnection (/data/apps/stjh/node_modules/knex/lib/execution/runner.js:318:20)
+2026-08-02 21:45:11 +08:00:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2026-08-02 21:45:11 +08:00:     at async Runner.run (/data/apps/stjh/node_modules/knex/lib/execution/runner.js:30:19)
+2026-08-02 21:45:11 +08:00:     at async s_userInfo (/data/apps/stjh/controllers/userinfo.js:14:9)
+2026-08-02 21:45:11 +08:00:     at async bodyParser (/data/apps/stjh/node_modules/koa-bodyparser/index.js:65:14)
+2026-08-02 21:45:11 +08:00: Error: Undefined binding(s) detected for keys [0,1] when compiling RAW query: username =? && mobile=?
+2026-08-02 21:45:11 +08:00:     at Raw.toSQL (/data/apps/stjh/node_modules/knex/lib/raw.js:110:13)
+2026-08-02 21:45:11 +08:00:     at unwrapRaw (/data/apps/stjh/node_modules/knex/lib/formatter/wrappingFormatter.js:116:19)
+2026-08-02 21:45:11 +08:00:     at QueryCompiler_MySQL.whereRaw (/data/apps/stjh/node_modules/knex/lib/query/querycompiler.js:1129:7)
+2026-08-02 21:45:11 +08:00:     at QueryCompiler_MySQL.whereRaw (/data/apps/stjh/node_modules/knex/lib/dialects/mysql/query/mysql-querycompiler.js:200:18)
+2026-08-02 21:45:11 +08:00:     at QueryCompiler_MySQL.where (/data/apps/stjh/node_modules/knex/lib/query/querycompiler.js:584:34)
+2026-08-02 21:45:11 +08:00:     at /data/apps/stjh/node_modules/knex/lib/query/querycompiler.js:135:40
+2026-08-02 21:45:11 +08:00:     at Array.forEach (<anonymous>)
+2026-08-02 21:45:11 +08:00:     at QueryCompiler_MySQL.select (/data/apps/stjh/node_modules/knex/lib/query/querycompiler.js:134:16)
+2026-08-02 21:45:11 +08:00:     at QueryCompiler_MySQL.toSQL (/data/apps/stjh/node_modules/knex/lib/query/querycompiler.js:75:29)
+2026-08-02 21:45:11 +08:00:     at QueryBuilder_MySQL.toSQL (/data/apps/stjh/node_modules/knex/lib/query/querybuilder.js:84:44)
+2026-08-02 21:45:11 +08:00: 
+2026-08-02 21:45:11 +08:00:   Error: Undefined binding(s) detected for keys [0,1] when compiling RAW query: username =? && mobile=?
+2026-08-02 21:45:11 +08:00:       at Raw.toSQL (/data/apps/stjh/node_modules/knex/lib/raw.js:110:13)
+2026-08-02 21:45:11 +08:00:       at unwrapRaw (/data/apps/stjh/node_modules/knex/lib/formatter/wrappingFormatter.js:116:19)
+2026-08-02 21:45:11 +08:00:       at QueryCompiler_MySQL.whereRaw (/data/apps/stjh/node_modules/knex/lib/query/querycompiler.js:1129:7)
+2026-08-02 21:45:11 +08:00:       at QueryCompiler_MySQL.whereRaw (/data/apps/stjh/node_modules/knex/lib/dialects/mysql/query/mysql-querycompiler.js:200:18)
+2026-08-02 21:45:11 +08:00:       at QueryCompiler_MySQL.where (/data/apps/stjh/node_modules/knex/lib/query/querycompiler.js:584:34)
+2026-08-02 21:45:11 +08:00:       at /data/apps/stjh/node_modules/knex/lib/query/querycompiler.js:135:40
+2026-08-02 21:45:11 +08:00:       at Array.forEach (<anonymous>)
+2026-08-02 21:45:11 +08:00:       at QueryCompiler_MySQL.select (/data/apps/stjh/node_modules/knex/lib/query/querycompiler.js:134:16)
+2026-08-02 21:45:11 +08:00:       at QueryCompiler_MySQL.toSQL (/data/apps/stjh/node_modules/knex/lib/query/querycompiler.js:75:29)
+2026-08-02 21:45:11 +08:00:       at QueryBuilder_MySQL.toSQL (/data/apps/stjh/node_modules/knex/lib/query/querybuilder.js:84:44)
+2026-08-02 21:45:11 +08:00: 
+2026-08-03 11:21:13 +08:00: 创建文件失败: Error: ENOENT: no such file or directory, open 'files/0.49744941916597707.txt'
+2026-08-03 11:21:13 +08:00:     at Object.openSync (node:fs:596:3)
+2026-08-03 11:21:13 +08:00:     at Object.writeFileSync (node:fs:2322:35)
+2026-08-03 11:21:13 +08:00:     at create_qr (/data/apps/stjh/controllers/outQcode.js:39:16)
+2026-08-03 11:21:13 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:21:13 +08:00:     at /data/apps/stjh/node_modules/koa-router/lib/router.js:261:18
+2026-08-03 11:21:13 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:21:13 +08:00:     at /data/apps/stjh/node_modules/koa-compose/index.js:34:12
+2026-08-03 11:21:13 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-router/lib/router.js:266:33)
+2026-08-03 11:21:13 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:21:13 +08:00:     at bodyParser (/data/apps/stjh/node_modules/koa-bodyparser/index.js:65:20) {
+2026-08-03 11:21:13 +08:00:   errno: -2,
+2026-08-03 11:21:13 +08:00:   syscall: 'open',
+2026-08-03 11:21:13 +08:00:   code: 'ENOENT',
+2026-08-03 11:21:13 +08:00:   path: 'files/0.49744941916597707.txt'
+2026-08-03 11:21:13 +08:00: }
+2026-08-03 11:21:41 +08:00: create_qr接口执行错误：ReferenceError: QcodeLink is not defined
+2026-08-03 11:25:26 +08:00: create_qr接口执行错误：ReferenceError: QcodeLink is not defined
+2026-08-03 11:25:26 +08:00: 
+2026-08-03 11:25:26 +08:00:   AssertionError [ERR_ASSERTION]: pathname required
+2026-08-03 11:25:26 +08:00:       at send (/data/apps/stjh/node_modules/koa-send/index.js:52:3)
+2026-08-03 11:25:26 +08:00:       at download_qr (/data/apps/stjh/controllers/wxcode.js:94:11)
+2026-08-03 11:25:26 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:       at /data/apps/stjh/node_modules/koa-router/lib/router.js:261:18
+2026-08-03 11:25:26 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:       at /data/apps/stjh/node_modules/koa-compose/index.js:34:12
+2026-08-03 11:25:26 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-router/lib/router.js:266:33)
+2026-08-03 11:25:26 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:       at bodyParser (/data/apps/stjh/node_modules/koa-bodyparser/index.js:65:20)
+2026-08-03 11:25:26 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00: 
+2026-08-03 11:25:26 +08:00: create_qr接口执行错误：ReferenceError: QcodeLink is not defined
+2026-08-03 11:25:26 +08:00: 
+2026-08-03 11:25:26 +08:00:   AssertionError [ERR_ASSERTION]: pathname required
+2026-08-03 11:25:26 +08:00:       at send (/data/apps/stjh/node_modules/koa-send/index.js:52:3)
+2026-08-03 11:25:26 +08:00:       at download_qr (/data/apps/stjh/controllers/wxcode.js:94:11)
+2026-08-03 11:25:26 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:       at /data/apps/stjh/node_modules/koa-router/lib/router.js:261:18
+2026-08-03 11:25:26 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:       at /data/apps/stjh/node_modules/koa-compose/index.js:34:12
+2026-08-03 11:25:26 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-router/lib/router.js:266:33)
+2026-08-03 11:25:26 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:       at bodyParser (/data/apps/stjh/node_modules/koa-bodyparser/index.js:65:20)
+2026-08-03 11:25:26 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00: 
+2026-08-03 11:25:26 +08:00: 创建文件失败: Error: ENOENT: no such file or directory, open 'files/0.9947836939534849.txt'
+2026-08-03 11:25:26 +08:00:     at Object.openSync (node:fs:596:3)
+2026-08-03 11:25:26 +08:00:     at Object.writeFileSync (node:fs:2322:35)
+2026-08-03 11:25:26 +08:00:     at create_qr (/data/apps/stjh/controllers/outQcode.js:39:16)
+2026-08-03 11:25:26 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:     at /data/apps/stjh/node_modules/koa-router/lib/router.js:261:18
+2026-08-03 11:25:26 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:     at /data/apps/stjh/node_modules/koa-compose/index.js:34:12
+2026-08-03 11:25:26 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-router/lib/router.js:266:33)
+2026-08-03 11:25:26 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:     at bodyParser (/data/apps/stjh/node_modules/koa-bodyparser/index.js:65:20) {
+2026-08-03 11:25:26 +08:00:   errno: -2,
+2026-08-03 11:25:26 +08:00:   syscall: 'open',
+2026-08-03 11:25:26 +08:00:   code: 'ENOENT',
+2026-08-03 11:25:26 +08:00:   path: 'files/0.9947836939534849.txt'
+2026-08-03 11:25:26 +08:00: }
+2026-08-03 11:25:26 +08:00: 创建文件失败: Error: ENOENT: no such file or directory, open 'files/0.5895142078075077.txt'
+2026-08-03 11:25:26 +08:00:     at Object.openSync (node:fs:596:3)
+2026-08-03 11:25:26 +08:00:     at Object.writeFileSync (node:fs:2322:35)
+2026-08-03 11:25:26 +08:00:     at create_qr (/data/apps/stjh/controllers/outQcode.js:39:16)
+2026-08-03 11:25:26 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:     at /data/apps/stjh/node_modules/koa-router/lib/router.js:261:18
+2026-08-03 11:25:26 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:     at /data/apps/stjh/node_modules/koa-compose/index.js:34:12
+2026-08-03 11:25:26 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-router/lib/router.js:266:33)
+2026-08-03 11:25:26 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:     at bodyParser (/data/apps/stjh/node_modules/koa-bodyparser/index.js:65:20) {
+2026-08-03 11:25:26 +08:00:   errno: -2,
+2026-08-03 11:25:26 +08:00:   syscall: 'open',
+2026-08-03 11:25:26 +08:00:   code: 'ENOENT',
+2026-08-03 11:25:26 +08:00:   path: 'files/0.5895142078075077.txt'
+2026-08-03 11:25:26 +08:00: }
+2026-08-03 11:25:26 +08:00: 创建文件失败: Error: ENOENT: no such file or directory, open 'files/0.3717856497458205.txt'
+2026-08-03 11:25:26 +08:00:     at Object.openSync (node:fs:596:3)
+2026-08-03 11:25:26 +08:00:     at Object.writeFileSync (node:fs:2322:35)
+2026-08-03 11:25:26 +08:00:     at create_qr (/data/apps/stjh/controllers/outQcode.js:39:16)
+2026-08-03 11:25:26 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:     at /data/apps/stjh/node_modules/koa-router/lib/router.js:261:18
+2026-08-03 11:25:26 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:     at /data/apps/stjh/node_modules/koa-compose/index.js:34:12
+2026-08-03 11:25:26 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-router/lib/router.js:266:33)
+2026-08-03 11:25:26 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:     at bodyParser (/data/apps/stjh/node_modules/koa-bodyparser/index.js:65:20) {
+2026-08-03 11:25:26 +08:00:   errno: -2,
+2026-08-03 11:25:26 +08:00:   syscall: 'open',
+2026-08-03 11:25:26 +08:00:   code: 'ENOENT',
+2026-08-03 11:25:26 +08:00:   path: 'files/0.3717856497458205.txt'
+2026-08-03 11:25:26 +08:00: }
+2026-08-03 11:25:26 +08:00: 创建文件失败: Error: ENOENT: no such file or directory, open 'files/0.6228507693661824.txt'
+2026-08-03 11:25:26 +08:00:     at Object.openSync (node:fs:596:3)
+2026-08-03 11:25:26 +08:00:     at Object.writeFileSync (node:fs:2322:35)
+2026-08-03 11:25:26 +08:00:     at create_qr (/data/apps/stjh/controllers/outQcode.js:39:16)
+2026-08-03 11:25:26 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:     at /data/apps/stjh/node_modules/koa-router/lib/router.js:261:18
+2026-08-03 11:25:26 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:     at /data/apps/stjh/node_modules/koa-compose/index.js:34:12
+2026-08-03 11:25:26 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-router/lib/router.js:266:33)
+2026-08-03 11:25:26 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:     at bodyParser (/data/apps/stjh/node_modules/koa-bodyparser/index.js:65:20) {
+2026-08-03 11:25:26 +08:00:   errno: -2,
+2026-08-03 11:25:26 +08:00:   syscall: 'open',
+2026-08-03 11:25:26 +08:00:   code: 'ENOENT',
+2026-08-03 11:25:26 +08:00:   path: 'files/0.6228507693661824.txt'
+2026-08-03 11:25:26 +08:00: }
+2026-08-03 11:25:26 +08:00: create_qr接口执行错误：ReferenceError: QcodeLink is not defined
+2026-08-03 11:25:26 +08:00: 
+2026-08-03 11:25:26 +08:00:   AssertionError [ERR_ASSERTION]: pathname required
+2026-08-03 11:25:26 +08:00:       at send (/data/apps/stjh/node_modules/koa-send/index.js:52:3)
+2026-08-03 11:25:26 +08:00:       at download_qr (/data/apps/stjh/controllers/wxcode.js:94:11)
+2026-08-03 11:25:26 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:       at /data/apps/stjh/node_modules/koa-router/lib/router.js:261:18
+2026-08-03 11:25:26 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:       at /data/apps/stjh/node_modules/koa-compose/index.js:34:12
+2026-08-03 11:25:26 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-router/lib/router.js:266:33)
+2026-08-03 11:25:26 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00:       at bodyParser (/data/apps/stjh/node_modules/koa-bodyparser/index.js:65:20)
+2026-08-03 11:25:26 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:26 +08:00: 
+2026-08-03 11:25:44 +08:00: create_qr接口执行错误：ReferenceError: QcodeLink is not defined
+2026-08-03 11:25:44 +08:00: 
+2026-08-03 11:25:44 +08:00:   AssertionError [ERR_ASSERTION]: pathname required
+2026-08-03 11:25:44 +08:00:       at send (/data/apps/stjh/node_modules/koa-send/index.js:52:3)
+2026-08-03 11:25:44 +08:00:       at download_qr (/data/apps/stjh/controllers/wxcode.js:94:11)
+2026-08-03 11:25:44 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:44 +08:00:       at /data/apps/stjh/node_modules/koa-router/lib/router.js:261:18
+2026-08-03 11:25:44 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:44 +08:00:       at /data/apps/stjh/node_modules/koa-compose/index.js:34:12
+2026-08-03 11:25:44 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-router/lib/router.js:266:33)
+2026-08-03 11:25:44 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:44 +08:00:       at bodyParser (/data/apps/stjh/node_modules/koa-bodyparser/index.js:65:20)
+2026-08-03 11:25:44 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:44 +08:00: 
+2026-08-03 11:25:47 +08:00: 创建文件失败: Error: ENOENT: no such file or directory, open 'files/0.6705557940083524.txt'
+2026-08-03 11:25:47 +08:00:     at Object.openSync (node:fs:596:3)
+2026-08-03 11:25:47 +08:00:     at Object.writeFileSync (node:fs:2322:35)
+2026-08-03 11:25:47 +08:00:     at create_qr (/data/apps/stjh/controllers/outQcode.js:39:16)
+2026-08-03 11:25:47 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:47 +08:00:     at /data/apps/stjh/node_modules/koa-router/lib/router.js:261:18
+2026-08-03 11:25:47 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:47 +08:00:     at /data/apps/stjh/node_modules/koa-compose/index.js:34:12
+2026-08-03 11:25:47 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-router/lib/router.js:266:33)
+2026-08-03 11:25:47 +08:00:     at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:25:47 +08:00:     at bodyParser (/data/apps/stjh/node_modules/koa-bodyparser/index.js:65:20) {
+2026-08-03 11:25:47 +08:00:   errno: -2,
+2026-08-03 11:25:47 +08:00:   syscall: 'open',
+2026-08-03 11:25:47 +08:00:   code: 'ENOENT',
+2026-08-03 11:25:47 +08:00:   path: 'files/0.6705557940083524.txt'
+2026-08-03 11:25:47 +08:00: }
+2026-08-03 11:26:02 +08:00: create_qr接口执行错误：ReferenceError: QcodeLink is not defined
+2026-08-03 11:26:02 +08:00: 
+2026-08-03 11:26:02 +08:00:   AssertionError [ERR_ASSERTION]: pathname required
+2026-08-03 11:26:02 +08:00:       at send (/data/apps/stjh/node_modules/koa-send/index.js:52:3)
+2026-08-03 11:26:02 +08:00:       at download_qr (/data/apps/stjh/controllers/wxcode.js:94:11)
+2026-08-03 11:26:02 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:26:02 +08:00:       at /data/apps/stjh/node_modules/koa-router/lib/router.js:261:18
+2026-08-03 11:26:02 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:26:02 +08:00:       at /data/apps/stjh/node_modules/koa-compose/index.js:34:12
+2026-08-03 11:26:02 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-router/lib/router.js:266:33)
+2026-08-03 11:26:02 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:26:02 +08:00:       at bodyParser (/data/apps/stjh/node_modules/koa-bodyparser/index.js:65:20)
+2026-08-03 11:26:02 +08:00:       at dispatch (/data/apps/stjh/node_modules/koa-compose/index.js:42:32)
+2026-08-03 11:26:02 +08:00: 
+2026-08-08 08:14:06 +08:00: /zuishu.php error: Error: ER_BAD_FIELD_ERROR: Unknown column 'scancount' in 'field list'
+2026-08-08 08:14:06 +08:00:     at Sequence._packetToError (/data/apps/stjh/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+2026-08-08 08:14:06 +08:00:     at Query.ErrorPacket (/data/apps/stjh/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+2026-08-08 08:14:06 +08:00:     at Protocol._parsePacket (/data/apps/stjh/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+2026-08-08 08:14:06 +08:00:     at Parser._parsePacket (/data/apps/stjh/node_modules/mysql/lib/protocol/Parser.js:433:10)
+2026-08-08 08:14:06 +08:00:     at Parser.write (/data/apps/stjh/node_modules/mysql/lib/protocol/Parser.js:43:10)
+2026-08-08 08:14:06 +08:00:     at Protocol.write (/data/apps/stjh/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+2026-08-08 08:14:06 +08:00:     at Socket.<anonymous> (/data/apps/stjh/node_modules/mysql/lib/Connection.js:88:28)
+2026-08-08 08:14:06 +08:00:     at Socket.<anonymous> (/data/apps/stjh/node_modules/mysql/lib/Connection.js:526:10)
+2026-08-08 08:14:06 +08:00:     at Socket.emit (node:events:518:28)
+2026-08-08 08:14:06 +08:00:     at addChunk (node:internal/streams/readable:561:12)
+2026-08-08 08:14:06 +08:00:     --------------------
+2026-08-08 08:14:06 +08:00:     at Protocol._enqueue (/data/apps/stjh/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+2026-08-08 08:14:06 +08:00:     at Connection.query (/data/apps/stjh/node_modules/mysql/lib/Connection.js:198:25)
+2026-08-08 08:14:06 +08:00:     at /data/apps/stjh/node_modules/knex/lib/dialects/mysql/index.js:137:18
+2026-08-08 08:14:06 +08:00:     at new Promise (<anonymous>)
+2026-08-08 08:14:06 +08:00:     at Client_MySQL._query (/data/apps/stjh/node_modules/knex/lib/dialects/mysql/index.js:131:12)
+2026-08-08 08:14:06 +08:00:     at executeQuery (/data/apps/stjh/node_modules/knex/lib/execution/internal/query-executioner.js:37:17)
+2026-08-08 08:14:06 +08:00:     at Client_MySQL.query (/data/apps/stjh/node_modules/knex/lib/client.js:154:12)
+2026-08-08 08:14:06 +08:00:     at Runner.query (/data/apps/stjh/node_modules/knex/lib/execution/runner.js:141:36)
+2026-08-08 08:14:06 +08:00:     at ensureConnectionCallback (/data/apps/stjh/node_modules/knex/lib/execution/internal/ensure-connection-callback.js:13:17)
+2026-08-08 08:14:06 +08:00:     at Runner.ensureConnection (/data/apps/stjh/node_modules/knex/lib/execution/runner.js:318:20) {
+2026-08-08 08:14:06 +08:00:   code: 'ER_BAD_FIELD_ERROR',
+2026-08-08 08:14:06 +08:00:   errno: 1054,
+2026-08-08 08:14:06 +08:00:   sqlMessage: "Unknown column 'scancount' in 'field list'",
+2026-08-08 08:14:06 +08:00:   sqlState: '42S22',
+2026-08-08 08:14:06 +08:00:   index: 0,
+2026-08-08 08:14:06 +08:00:   sql: 'update `reviewinfo` set `scancount` = 1 where `id` = 235'
+2026-08-08 08:14:06 +08:00: }
+2026-08-08 08:14:06 +08:00: /zuishu.php error: Error: ER_BAD_FIELD_ERROR: Unknown column 'scancount' in 'field list'
+2026-08-08 08:14:06 +08:00:     at Sequence._packetToError (/data/apps/stjh/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+2026-08-08 08:14:06 +08:00:     at Query.ErrorPacket (/data/apps/stjh/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+2026-08-08 08:14:06 +08:00:     at Protocol._parsePacket (/data/apps/stjh/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+2026-08-08 08:14:06 +08:00:     at Parser._parsePacket (/data/apps/stjh/node_modules/mysql/lib/protocol/Parser.js:433:10)
+2026-08-08 08:14:06 +08:00:     at Parser.write (/data/apps/stjh/node_modules/mysql/lib/protocol/Parser.js:43:10)
+2026-08-08 08:14:06 +08:00:     at Protocol.write (/data/apps/stjh/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+2026-08-08 08:14:06 +08:00:     at Socket.<anonymous> (/data/apps/stjh/node_modules/mysql/lib/Connection.js:88:28)
+2026-08-08 08:14:06 +08:00:     at Socket.<anonymous> (/data/apps/stjh/node_modules/mysql/lib/Connection.js:526:10)
+2026-08-08 08:14:06 +08:00:     at Socket.emit (node:events:518:28)
+2026-08-08 08:14:06 +08:00:     at addChunk (node:internal/streams/readable:561:12)
+2026-08-08 08:14:06 +08:00:     --------------------
+2026-08-08 08:14:06 +08:00:     at Protocol._enqueue (/data/apps/stjh/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+2026-08-08 08:14:06 +08:00:     at Connection.query (/data/apps/stjh/node_modules/mysql/lib/Connection.js:198:25)
+2026-08-08 08:14:06 +08:00:     at /data/apps/stjh/node_modules/knex/lib/dialects/mysql/index.js:137:18
+2026-08-08 08:14:06 +08:00:     at new Promise (<anonymous>)
+2026-08-08 08:14:06 +08:00:     at Client_MySQL._query (/data/apps/stjh/node_modules/knex/lib/dialects/mysql/index.js:131:12)
+2026-08-08 08:14:06 +08:00:     at executeQuery (/data/apps/stjh/node_modules/knex/lib/execution/internal/query-executioner.js:37:17)
+2026-08-08 08:14:06 +08:00:     at Client_MySQL.query (/data/apps/stjh/node_modules/knex/lib/client.js:154:12)
+2026-08-08 08:14:06 +08:00:     at Runner.query (/data/apps/stjh/node_modules/knex/lib/execution/runner.js:141:36)
+2026-08-08 08:14:06 +08:00:     at ensureConnectionCallback (/data/apps/stjh/node_modules/knex/lib/execution/internal/ensure-connection-callback.js:13:17)
+2026-08-08 08:14:06 +08:00:     at Runner.ensureConnection (/data/apps/stjh/node_modules/knex/lib/execution/runner.js:318:20) {
+2026-08-08 08:14:06 +08:00:   code: 'ER_BAD_FIELD_ERROR',
+2026-08-08 08:14:06 +08:00:   errno: 1054,
+2026-08-08 08:14:06 +08:00:   sqlMessage: "Unknown column 'scancount' in 'field list'",
+2026-08-08 08:14:06 +08:00:   sqlState: '42S22',
+2026-08-08 08:14:06 +08:00:   index: 0,
+2026-08-08 08:14:06 +08:00:   sql: 'update `reviewinfo` set `scancount` = 1 where `id` = 235'
+2026-08-08 08:14:06 +08:00: }

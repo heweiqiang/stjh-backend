@@ -1,0 +1,105 @@
+const QcloudSms = require("qcloudsms_js");
+const config = require('../config');
+const knex = require('knex')(config.db);
+const formatdatetime = require('../formatdatetime');
+
+const appid = 1400098314;
+const appkey = "7bba1309504f71193d864e65b746bb85";
+const templId = 132441;
+const qcloudsms = QcloudSms(appid, appkey);
+
+
+ function getUserstate(username,mobile,vercode){  
+     var sql_where ='username =? && mobile=?'; 
+     var sql_text = [username,mobile];
+     if (vercode !==null && vercode !== undefined && vercode !== ''){
+        sql_where =sql_where +' and VerCode = ?';
+        sql_text.push(vercode);  
+     }
+  return new Promise((resolve, reject) => {
+    knex.select('timelong')
+    .from('register_user')
+    .whereRaw(sql_where,sql_text)
+    .then(function (res){
+      if (res.length == 0){ 
+        return resolve('-1');
+      } else {   
+        resolve(res[0].timelong);
+      }
+      
+    })
+    .catch(function(e) {
+      console.error(e);
+      return reject(e);
+  
+    })
+  })  //end promise
+ }
+module.exports={
+
+    sendVercode: async (ctx, next) => { //发送验证码
+        let data =null;
+        let mobile = ctx.request.query.mobile;
+        let username =ctx.request.query.username;
+        var userstate = await getUserstate(username,mobile,'');
+    
+        if (  userstate=='-1' ){
+            data ='用户或电话号码不正确!';
+           
+        }else {
+            let randstr = formatdatetime.randNumber(6);
+            var ssender = qcloudsms.SmsSingleSender();
+            let timelong = config.vercodelong/60;
+            let mydate=formatdatetime.formatDateTime(new Date(),'-',':');
+            var params = [randstr, timelong]; //设置模板中定义的参数
+            ssender.sendWithParam(86,mobile,templId,params,"","","",function callback(err, res, resData){ 
+                if (err){
+                    data ='';
+                    console.log("err: ", err);
+                } else if (resData.result == 0) { //短信发送成功
+                    data ="OK";
+                    knex('register_user')
+                    .whereRaw('username = ? && mobile = ?',[username,mobile])
+                    .update({
+                        VerCode:randstr,
+                        timelong:Date.parse(new Date())/1000,
+                        updatetime: mydate, 
+                    })
+                    .then(function(res){
+                        console.log(res);
+                    })
+                    .catch(function(e){
+                        console.log(e);
+                        data ='';
+                    });
+                } else{
+                    console.log("response data: ", resData);
+                    data ="";
+                }
+                    
+            }); // end ssender
+        };  // end if 
+        ctx.response.body = data;
+   }, 
+   
+    Vercode_checkup: async (ctx, next) => { // 验证用户输入的验证码是否正确
+        let mobile = ctx.request.query.mobile;
+        let username =ctx.request.query.username;
+        let vercode =ctx.request.query.vercode;
+        let timelong = await getUserstate(username,mobile,vercode);
+    
+        let currtime = Date.parse(new Date())/1000;
+        if (timelong =='-1'){
+            ctx.response.body = '验证信息不正确！';  
+        } else if (currtime - timelong > config.vercodelong){
+            ctx.response.body = '验证码已过期！';
+        } else{
+            ctx.response.body = '1';
+        };
+   },
+
+  };
+
+
+
+

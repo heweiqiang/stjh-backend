@@ -1,0 +1,1 @@
+module.exports={apps:[{name:'stjh',script:'app.js',cwd:'/data/apps/stjh',exec_mode:'fork',instances:1,autorestart:true,node_args:'--max-old-space-size=1024',env:{NODE_ENV:'production'},error_file:'/data/apps/stjh/logs/pm2-error.log',out_file:'/data/apps/stjh/logs/pm2-out.log',log_date_format:'YYYY-MM-DD HH:mm:ss Z',merge_logs:true}]};
