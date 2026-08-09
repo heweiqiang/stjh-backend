@@ -25,7 +25,8 @@ module.exports = {
         } = ctx.request.body;
 
         // 参数验证
-        if (!qrCount || !zhuisuID || !chanpinid) {
+        const count = parseInt(qrCount);
+        if (!count || count <= 0 || !zhuisuID || !chanpinid) {
             ctx.response.body = '缺少必要参数';
             return;
         }
@@ -72,7 +73,7 @@ module.exports = {
 
         try {
             // 批量生成和处理二维码
-            for (let i = 1; i <= qrCount; i++) {
+            for (let i = 1; i <= count; i++) {
                 const Qcode = formatdatetime.randNumber(8);
                 const QcodeLink = `${config.qrLink}${zhuisuID}${Qcode}`;
 
@@ -93,7 +94,7 @@ module.exports = {
                 qrlist += `${QcodeLink}\r\n`;
 
                 // 达到批量大小或最后一次时执行批量操作
-                if (i % BATCH_SIZE === 0 || i === qrCount) {
+                if (i % BATCH_SIZE === 0 || i === count) {
                     await insertBatch(qrcodeList, qrlist);
                     qrcodeList = [];
                     qrlist = '';
@@ -105,7 +106,7 @@ module.exports = {
                 tableName: 'outQcode',
                 eventType: 'INSERT',
                 functionName: 'create_qr',
-                remarks: `生成二维码: 产品${chanpinid},追溯码${zhuisuID}, 生成数量${qrCount}`,
+                remarks: `生成二维码: 产品${chanpinid},追溯码${zhuisuID}, 生成数量${count}`,
                 body: { filename },
                 SQL: sqlString || '未生成SQL',
                 startTime,

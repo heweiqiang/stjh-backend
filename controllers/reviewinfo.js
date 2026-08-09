@@ -86,6 +86,30 @@ module.exports = {
                 console.error(e);
             })
 
+        // 防御：如果 LEFT JOIN 结果为 null（kehuid 指向已删除的人员），
+        // 用默认公司信息（userinfo id=55）补全
+        if (data && data.length > 0) {
+            const hasNull = data.some(r => !r.jingyingzhe);
+            if (hasNull) {
+                try {
+                    const defaultCompany = await knex('userinfo').where('id', '55').first();
+                    if (defaultCompany) {
+                        data = data.map(r => {
+                            if (!r.jingyingzhe) {
+                                r.jingyingzhe = defaultCompany.jingyingzhe;
+                                r.xukezheng = defaultCompany.xukezheng;
+                                r.dizhi = defaultCompany.dizhi;
+                                r.lianxifangshi = defaultCompany.lianxifangshi;
+                                r.wangzhi = defaultCompany.wangzhi;
+                                r.telephone = defaultCompany.telephone;
+                            }
+                            return r;
+                        });
+                    }
+                } catch (_) { /* 静默忽略 fallback 查询失败 */ }
+            }
+        }
+
         return ctx.response.body = data;
     },
     d_Qcode: async (ctx, nex) => { //删除记录
